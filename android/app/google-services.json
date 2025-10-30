@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810555950787",
+    "project_id": "hotel-search-app-f32a1",
+    "storage_bucket": "hotel-search-app-f32a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810555950787:android:96b8f3dc1f6689a3aa0476",
+        "android_client_info": {
+          "package_name": "com.example.hotel_search"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBNpMvs3QFYwG6_6ENb6JspkUdnYpOUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+D:/pip_demo/android/app/.cxx/Debug/3h6a4zq5/x86/CMakeFiles/edit_cache.dir
+D:/pip_demo/android/app/.cxx/Debug/3h6a4zq5/x86/CMakeFiles/rebuild_cache.dir
