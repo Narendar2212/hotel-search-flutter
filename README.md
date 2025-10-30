@@ -1,16 +1,17 @@
-# pip_demo
+# 🏨 Hotel Search Flutter App
 
-A new Flutter project.
+A Flutter app with Google Sign-In and hotel search integration.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Google Sign-In with SharedPreferences persistence
+- Hotel search API integration
+- Auto login on app start
+- Material 3 UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Run Locally
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
